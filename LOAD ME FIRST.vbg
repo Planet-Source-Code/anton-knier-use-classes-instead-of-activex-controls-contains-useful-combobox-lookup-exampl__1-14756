@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=CBOActiveSrchControl.vbp
+StartupProject=ComboTest.vbp
+Project=CBOAutoSrchDLL.vbp
